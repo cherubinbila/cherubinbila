@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, next.js**
 
-- 📫 How to reach me **bilacherubin@gmail.com**
+- 📫 How to reach me **bilafranck09@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
 
